@@ -25,6 +25,10 @@ EditorBuildSettings:
     WebXR.Settings: {fileID: 11400000, guid: 33d1c5a8987024a7a83dea1dbd30e5ad, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2b5a2f7f51e074de9982cf6513c09e9e,
       type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 782a141a8184f4483954dca05e0dda86,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 92ecd2e551c304604a0d2d16a523c356,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 191eacdfb578b40aca9152b4a4f06ffc,
       type: 2}
   m_UseUCBPForAssetBundles: 0
