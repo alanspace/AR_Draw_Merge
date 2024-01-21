@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "com.de-panther.webxr": "0.20.0",
-    "com.de-panther.webxr-interactions": "0.20.0",
+    "com.aukilabs.unity.integration.arfoundation": "0.6.35",
     "com.google.ar.core.arfoundation.extensions": "https://github.com/google-ar/arcore-unity-extensions.git",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.ai.navigation": "2.0.0",
