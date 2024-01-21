@@ -57,12 +57,10 @@
   },
   "scopedRegistries": [
     {
-      "name": "package.openupm.com",
-      "url": "https://package.openupm.com",
+      "name": "Auki Labs",
+      "url": "https://npm.aukiverse.com",
       "scopes": [
-        "com.de-panther.webxr",
-        "com.de-panther.webxr-interactions",
-        "com.openupm"
+        "com.aukilabs"
       ]
     }
   ]
