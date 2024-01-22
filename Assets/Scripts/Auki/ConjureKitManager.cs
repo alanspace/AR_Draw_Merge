@@ -42,7 +42,7 @@ public class ConjureKitManager : MonoBehaviour
 
     [SerializeField] private Transform arSessionOrigin;
 
-    private ColorSystem _colorSystem;
+     // private ColorSystem _colorSystem;
     private Dictionary<uint, Renderer> _cubes = new Dictionary<uint, Renderer>();
 
     void Start()
